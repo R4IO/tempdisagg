@@ -1,5 +1,0 @@
-travis
-.gitignore
-^\.travis\.yml$
-^.*\.Rproj$
-^\.Rproj\.user$
